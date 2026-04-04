@@ -1,8 +1,6 @@
-ss://d7f1325e-39f0-51ce-832d-5ae04fd5fa51@ca2.xvmess.site:443?allowInsecure=1&encryption=none&host=ca2.xvmess.site&path=%2Fvmess%23DONT-FORGET-TO-SUPPORT-SSHMAX.COM-TO-KEEP-THIS-SERVER-ALIVE&security=tls&sni=ca2.xvmess.site&type=ws#@Vip_Security join us - 426
-ss://d13fc2f5-3e05-4795-81eb-44143a09e552@82.198.246.250:180?encryption=auto&security=none&type=tcp#@Vip_Security join us - 425
-ss://c5dd6680-64ad-4f04-9952-49d94984f9eb@35.240.225.23:8880?encryption=auto&path=%2F&security=none&type=ws#@Vip_Security join us - 424
-ss://bd48e0ac-e90e-4451-a4f2-abf061cfb890@[2001:bc8:32d7:225::1]:23456?encryption=auto&host=www.bing.com&path=%2Falvin9999.com&security=none&type=ws#@Vip_Security join us - 423
-ss://bb7d8763-4afa-465f-b066-35786781ced2@216.236.26.19:2052?encryption=auto&host=www.bing.com&path=bb7d8763-4afa-465f-b066-35786781ced2-vm&security=none&type=ws#@Vip_Security join us - 422
+ss://d7f1325e-39f0-51ce-832d-5ae04fd5fa51@ca2.xvmess.site:443?allowInsecure=1&encryption=none&host=ca2.xvmess.site&path=%2Fvmess%23DONT-FORGET-TO-SUPPORT-SSHMAX.COM-TO-KEEP-THIS-SERVER-ALIVE&security=tls&sni=ca2.xvmess.site&type=ws#@Vip_Security join us - 424
+ss://d13fc2f5-3e05-4795-81eb-44143a09e552@82.198.246.250:180?encryption=auto&security=none&type=tcp#@Vip_Security join us - 423
+ss://c5dd6680-64ad-4f04-9952-49d94984f9eb@35.240.225.23:8880?encryption=auto&path=%2F&security=none&type=ws#@Vip_Security join us - 422
 ss://ad84d811-1fca-41a1-9ce4-a85e5120c854@kamk-ir.mclstariran.fun:9090?security=none&encryption=none&host=www.speedtest.com&headerType=http&type=tcp#@Vip_Security join us - 421
 ss://YWVzLTI1Ni1nY206dW1Xd29RSkVKR2Y3NFNMZQ@149.102.149.207:443#@Vip_Security join us - 420
 ss://YWVzLTI1Ni1nY206cUt2Zlg3eVFuVDk5T011Mw%3D%3D@194.233.75.190:443#@Vip_Security join us - 419
