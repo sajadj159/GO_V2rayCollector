@@ -1,5 +1,4 @@
-ss://f8c8dc3d-0d37-46b0-8b34-a7232882fcfe@38.91.107.49:18000?encryption=auto&security=none&type=tcp#@Vip_Security join us - 433
-ss://f0a2fbe5-29bf-468c-ddc1-b524552d1a23@107.173.27.219:6666?encryption=auto&path=%2Fyoutube&security=none&type=ws#@Vip_Security join us - 432
+ss://f8c8dc3d-0d37-46b0-8b34-a7232882fcfe@38.91.107.49:18000?encryption=auto&security=none&type=tcp#@Vip_Security join us - 432
 ss://eyJhZGQiOiIxNzIuMjMzLjE3Ljc2IiwiYWlkIjoiMCIsImFscG4iOiIiLCJmcCI6IiIsImhvc3QiOiIiLCJpZCI6IjA0NjIxYmFlLWFiMzYtMTFlYy1iOTA5LTAyNDJhYzEyMDAwMiIsIm5ldCI6InRjcCIsInBhdGgiOiIiLCJwb3J0IjoiMjIzMjQiLCJwcyI6IkBpbmlrb3Rlc2xhIiwic2N5IjoiYXV0byIsInNuaSI6IiIsInRscyI6IiIsInR5cGUiOiIiLCJ2IjoiMiJ9#@Vip_Security join us - 431
 ss://eGNoYWNoYTIwLWlldGYtcG9seTEzMDU6dTFqQnd1anA4SEI0dHZPVkNocDd5Z2l5QlIxckRmL2IxMnI1SzlUWEZTbz0%3D@62.60.163.84:10374#@Vip_Security join us - 430
 ss://d4d715a6-0a2e-4304-df2f-d5efd85a5a5d@104.233.214.176:13581?encryption=auto&security=none&type=tcp#@Vip_Security join us - 429
@@ -430,4 +429,4 @@ ss://5f117758-a07f-4b20-82bf-25b7665ee514@185.143.233.5:2052?path=%2F&security=n
 ss://48eabd37-500d-403f-8e8f-715d1e17bffd@89.167.82.102:4443?encryption=auto&security=none&type=tcp#@Vip_Security join us - 4
 ss://41b73303-5622-4736-ffc1-b60abc1f2347@185.153.231.167:49946?encryption=auto&headerType=http&path=%2F&security=none&type=tcp#@Vip_Security join us - 3
 ss://2a2b08aa-c05e-494b-a5a6-8e63abcb9bbd@154.12.50.89:62051?encryption=auto&security=none&type=ws#@Vip_Security join us - 2
-ss://2a2b08aa-c05e-494b-a5a6-8e63abcb9bbd@154.12.50.89:37215?encryption=auto&security=none&type=ws#@Vip_Security join us - 1
+ss://1ebf58de-3386-4764-953f-0d9912040f70@cloudinohost.com:443?path=%2F&security=tls&alpn=h2%2Chttp%2F1.1&encryption=none&insecure=1&fp=chrome&type=ws&allowInsecure=1&sni=cloudinohost.com#@Vip_Security join us - 1
