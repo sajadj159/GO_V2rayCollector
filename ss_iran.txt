@@ -1,6 +1,4 @@
-ss://f8c8dc3d-0d37-46b0-8b34-a7232882fcfe@67.220.85.46:18000?encryption=auto&security=none&type=tcp#@Vip_Security join us - 475
-ss://db01768e-d532-40eb-a9eb-6d9e59cc79dd@185.19.33.135:14019?encryption=auto&security=none&type=tcp#@Vip_Security join us - 474
-ss://c58c1205-b308-416f-8503-c04557abf93d@158.160.180.165:24212?alpn=h2%2Chttp%2F1.1&encryption=auto&security=tls&sni=158.160.180.165&type=tcp#@Vip_Security join us - 473
+ss://f8c8dc3d-0d37-46b0-8b34-a7232882fcfe@67.220.85.46:18000?encryption=auto&security=none&type=tcp#@Vip_Security join us - 473
 ss://ZDllYjBkZjMtMzE5MC00NDQ3LTg2YjYtNjU2ZmU1ZmYxMTE5Og==@172.64.143.88:443#@Vip_Security join us - 472
 ss://YWVzLTI1Ni1nY206ekROVmVkUkZQUWV4Rzl2@51.222.141.125:445#@Vip_Security join us - 471
 ss://YWVzLTI1Ni1nY206ekROVmVkUkZQUWV4Rzl2@51.222.12.127:445#@Vip_Security join us - 470
